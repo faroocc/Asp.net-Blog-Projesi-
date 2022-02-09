@@ -1,0 +1,17 @@
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\bin\Debug\net5.0\aspblog.business.deps.json
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\bin\Debug\net5.0\aspblog.business.dll
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\bin\Debug\net5.0\ref\aspblog.business.dll
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\bin\Debug\net5.0\aspblog.business.pdb
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\bin\Debug\net5.0\aspblog.data.dll
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\bin\Debug\net5.0\aspblog.entity.dll
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\bin\Debug\net5.0\aspblog.entity.pdb
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\bin\Debug\net5.0\aspblog.data.pdb
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\obj\Debug\net5.0\aspblog.business.csproj.AssemblyReference.cache
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\obj\Debug\net5.0\aspblog.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\obj\Debug\net5.0\aspblog.business.AssemblyInfoInputs.cache
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\obj\Debug\net5.0\aspblog.business.AssemblyInfo.cs
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\obj\Debug\net5.0\aspblog.business.csproj.CoreCompileInputs.cache
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\obj\Debug\net5.0\aspblog.business.csproj.CopyComplete
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\obj\Debug\net5.0\aspblog.business.dll
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\obj\Debug\net5.0\ref\aspblog.business.dll
+C:\Users\Faroo\Desktop\ASp.Blog\aspblog.business\obj\Debug\net5.0\aspblog.business.pdb

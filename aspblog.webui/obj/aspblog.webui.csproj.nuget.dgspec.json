@@ -1,0 +1,276 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.webui\\aspblog.webui.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.business\\aspblog.business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.business\\aspblog.business.csproj",
+        "projectName": "aspblog.business",
+        "projectPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.business\\aspblog.business.csproj",
+        "packagesPath": "C:\\Users\\Faroo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Faroo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.data\\aspblog.data.csproj": {
+                "projectPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.data\\aspblog.data.csproj"
+              },
+              "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.entity\\aspblog.entity.csproj": {
+                "projectPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.entity\\aspblog.entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.data\\aspblog.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.data\\aspblog.data.csproj",
+        "projectName": "aspblog.data",
+        "projectPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.data\\aspblog.data.csproj",
+        "packagesPath": "C:\\Users\\Faroo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Faroo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.entity\\aspblog.entity.csproj": {
+                "projectPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.entity\\aspblog.entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.entity\\aspblog.entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.entity\\aspblog.entity.csproj",
+        "projectName": "aspblog.entity",
+        "projectPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.entity\\aspblog.entity.csproj",
+        "packagesPath": "C:\\Users\\Faroo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Faroo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.webui\\aspblog.webui.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.webui\\aspblog.webui.csproj",
+        "projectName": "aspblog.webui",
+        "projectPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.webui\\aspblog.webui.csproj",
+        "packagesPath": "C:\\Users\\Faroo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.webui\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Faroo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.business\\aspblog.business.csproj": {
+                "projectPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.business\\aspblog.business.csproj"
+              },
+              "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.data\\aspblog.data.csproj": {
+                "projectPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.data\\aspblog.data.csproj"
+              },
+              "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.entity\\aspblog.entity.csproj": {
+                "projectPath": "C:\\Users\\Faroo\\Desktop\\ASp.Blog\\aspblog.entity\\aspblog.entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
